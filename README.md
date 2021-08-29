@@ -1,8 +1,15 @@
+[![SauloSTS GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloSTS)](https://github.com/SauloSTS/github-readme-stats)
+
+
 # Dio-DesafioGitHub
 Desafio do Bootcamps everis New Talents #2 .NET / Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-Repositório criado para o Desafio do Projeto
 
 
+## Resumo Geral
+Nesse Repositório estarei organizado para ser tipo um Indice para todos os projetos feitos noss cursos e Bootcamps da DIO.
 
-LINKS ÚTEIS
-Sintaxe Basica MarkDown(https://github.com/SauloSTS/Dio-DesafioGitHub)
+### LINKS ÚTEIS
+Linguagem C#
+[DIO-Séries](https://github.com/SauloSTS/DIO.Series)
+[DIO-Api Catalogo de Jogos](https://github.com/SauloSTS/ApiCatalogoJogos)
+
